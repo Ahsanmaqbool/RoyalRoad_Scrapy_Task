@@ -1,6 +1,6 @@
 # Assignment Title: Backend Engineering Challenge
 
-##**Welcome to our project  assesment!**
+## **Welcome to our project  assesment!**
 
 ### Project Summary
 This project demonstrates a comprehensive approach to web scraping, employing diverse techniques to extract a wide range of data from targeted websites. The project is encapsulated within a single, well-structured Jupyter Notebook, showcasing versatile and adaptable scraping methodologies.
