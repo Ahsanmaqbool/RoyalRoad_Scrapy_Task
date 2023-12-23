@@ -25,3 +25,6 @@ This project demonstrates a comprehensive approach to web scraping, employing di
 
 ● Foundation for Further Development: The project serves as a valuable foundation for building more complex and specialized web scraping tools.
 
+### How to Run the Project:
+This jupyter file consists of 'n' different codes that can be exeucuted by copy pasting the code in a new python file and then run the python file by `python {your python file name}.py`. By this the python file will be executed. The file can be executed in the software buildin terminal or the additional terminal.
+However the jupyter notebook can be executed by installing *Anaconda Navigator*, downloading jupyter notebook from the internet or can use the jupyter extention of visual studio code.
